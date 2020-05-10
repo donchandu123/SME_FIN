@@ -4,10 +4,23 @@ public void add()
 {
 return "Hello Shubham"
 }
-
 poublic void mul()
 {
 return "Hello Zinga";
 }
 
 }
+
+<<<<<<< Updated upstream
+=======
+return "Hello sneha"
+}
+
+}
+>>>>>>> Stashed changes
+
+public int delete()
+{
+return a/b;
+}
+>>>>>>> Stashed changes
