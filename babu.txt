@@ -1,12 +1,13 @@
-<<<<<<< Updated upstream
+Updated upstream
 public void m1()
 {
 syso("HELLO IN M! METHODE")
 }
-=======
+
 public void m2()
 {
 
+
 SYSO("IN M@ METHODE")
+
 }
->>>>>>> Stashed changes
