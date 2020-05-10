@@ -24,3 +24,8 @@ public int delete()
 return a/b;
 }
 >>>>>>> Stashed changes
+
+public String m1
+{
+return "HI How are u";
+}
