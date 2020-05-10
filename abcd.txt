@@ -11,3 +11,16 @@ return "Hello Zinga";
 
 }
 
+<<<<<<< Updated upstream
+=======
+return "Hello sneha"
+}
+
+}
+>>>>>>> Stashed changes
+
+public int delete()
+{
+return a/b;
+}
+>>>>>>> Stashed changes
