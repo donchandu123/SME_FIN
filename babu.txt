@@ -1,3 +1,18 @@
+<<<<<<< HEAD
+Updated upstream
+public void m1()
+{
+syso("HELLO IN M! METHODE")
+}
+
+public void m2()
+{
+
+
+SYSO("IN M@ METHODE")
+
+}
+=======
 <<<<<<< Updated upstream
 hello bhau how are you
 =======
@@ -8,3 +23,8 @@ babu i love you
 >>>>>>> Stashed changes
  
  hi i am in pune
+>>>>>>> 43fc9569bde45269c75401451b81aa10b45b5d0a
+
+
+hello everyone!!!!
+hello world!!!!
