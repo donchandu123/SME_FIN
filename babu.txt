@@ -1,1 +1,8 @@
+<<<<<<< Updated upstream
 hello bhau how are you
+=======
+
+Hello BAhin How Are You?
+
+babu i love you
+>>>>>>> Stashed changes
