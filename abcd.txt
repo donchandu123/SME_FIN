@@ -24,3 +24,9 @@ public int delete()
 return a/b;
 }
 >>>>>>> Stashed changes
+
+
+public void p2
+{
+return p;
+}
