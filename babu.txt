@@ -1,4 +1,1 @@
-public void m1()
-{
-syso("HELLO IN M! METHODE")
-}
+
