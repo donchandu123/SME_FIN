@@ -5,9 +5,19 @@ public void add()
 return "Hello Shubham"
 }
 
+<<<<<<< Updated upstream
 poublic void mul()
 {
 return "Hello Zinga";
 }
 
 }
+=======
+public void Sub()
+{
+
+return "Hello sneha"
+}
+
+}
+>>>>>>> Stashed changes
