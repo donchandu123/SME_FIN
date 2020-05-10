@@ -1,0 +1,13 @@
+public class abcd
+{
+public void add()
+{
+return "Hello Shubham"
+}
+
+poublic void mul()
+{
+return "Hello Zinga";
+}
+
+}
