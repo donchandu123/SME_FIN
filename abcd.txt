@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class abcd
 {
 public void add()
@@ -52,3 +53,5 @@ return p;
 }
 >>>>>>> ad3be8b6b514a8675e03d5b43ab3198a781c2e6d
 >>>>>>> ebc33fb538903b494350deec1667aa5f243139f5
+=======
+>>>>>>> 43fc9569bde45269c75401451b81aa10b45b5d0a
